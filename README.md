@@ -36,8 +36,6 @@
 | `wifi`          | Wi-Fi support (0/1)                 |
 | `price_range`   | Target class (0 to 3)               |
 
----
-
 ## 🎯 Objective
 
 To classify mobile phones into one of four **price ranges** based on the given technical specifications.
@@ -54,9 +52,7 @@ To classify mobile phones into one of four **price ranges** based on the given t
     - Larning rate: 0.1
     - Weight decay: 1e-6
 
----
-
-* Loss function: CrossEntropyLoss
+Loss function: CrossEntropyLoss
 
 ## Compare the results:
 
