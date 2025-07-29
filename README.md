@@ -5,8 +5,6 @@
 
 # Design and Train the **Perceptron (MLP)** model with **Mobile price** Dataset
 
----
-
 ## 📊 Dataset Overview
 
 - **Total Samples:** 1000 (approx.)
@@ -44,8 +42,6 @@
 
 To classify mobile phones into one of four **price ranges** based on the given technical specifications.
 
----
-
 ## Selected the best Larning rate and the wight decay based on optimizer
 
 * SGD:
@@ -61,8 +57,6 @@ To classify mobile phones into one of four **price ranges** based on the given t
 ---
 
 * Loss function: CrossEntropyLoss
-
----
 
 ## Compare the results:
 
